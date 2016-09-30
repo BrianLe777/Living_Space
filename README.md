@@ -1,4 +1,8 @@
 # Living_Space
 Hotels
 
-List of Hotels
+Marriott
+Hilton
+Hyatt
+Holiday Inn
+Starwood
